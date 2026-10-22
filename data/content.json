@@ -32490,9 +32490,9 @@
         ]
       ],
       "illustration": {
-        "id": "nebula-types",
-        "path": "assets/illustrations/nebula-types.webp",
-        "title": "星云的不同样子",
+        "id": "cosmic-hierarchy",
+        "path": "assets/illustrations/cosmic-hierarchy.webp",
+        "title": "宇宙里的层级",
         "caption": "知识示意，天体大小、距离与时间变化可作适当简化。"
       }
     }
